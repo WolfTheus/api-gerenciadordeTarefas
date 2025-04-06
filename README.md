@@ -14,5 +14,5 @@ Este é um projeto simples de uma API REST para gerenciar tarefas (To-Do List), 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/WolfTheus/notes
+git clone https://github.com/WolfTheus/api-gerenciadordeTarefas
 
